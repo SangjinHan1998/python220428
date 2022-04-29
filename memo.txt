@@ -1,0 +1,19 @@
+Why we use file input/output?
+
+To read data from file and use it in program
+
+To save data created by a program in file format
+
+* Open file Mode
+w : write
+a : add
+r : read
+
+File [ 1. open 2. write 3. close]
+
+File_Object = open ("FileName", "FileMode")
+File_Object.write(data)
+File_Object.close()
+
+★ CSV (Comma-Separated-Values)
+Text file format with data separated by commas
